@@ -7,7 +7,7 @@ import json
 import bs4 as bs
 import urllib.request
 import pickle
-# import requests
+import requests
 from datetime import date, datetime
 import warnings
 warnings.filterwarnings("ignore", category=DeprecationWarning)  # Ignore deprecation warnings
